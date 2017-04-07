@@ -1,0 +1,3 @@
+graft giantr/templates
+graft giantr/static
+include giantr/schema.sql

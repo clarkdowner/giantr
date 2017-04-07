@@ -1,0 +1,9 @@
+MANIFEST.in
+giantr/__init__.py
+giantr/giantr.py
+giantr/schema.sql
+giantr.egg-info/PKG-INFO
+giantr.egg-info/SOURCES.txt
+giantr.egg-info/dependency_links.txt
+giantr.egg-info/requires.txt
+giantr.egg-info/top_level.txt
